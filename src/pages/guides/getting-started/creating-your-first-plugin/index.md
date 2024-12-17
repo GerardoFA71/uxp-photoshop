@@ -101,7 +101,7 @@ our panel's UI:
     <sp-heading>Layers</sp-heading>
     <sp-body id="layers"> No layers </sp-body>
     <footer>
-      <sp-button id="btnPopulate">Populate Layers</sp-button>
+      <sp-button id="btnPopulate">Action Suite</sp-button>
     </footer>
   </body>
 </html>
